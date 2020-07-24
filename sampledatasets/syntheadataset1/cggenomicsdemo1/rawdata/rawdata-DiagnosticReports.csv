@@ -1,0 +1,5 @@
+﻿reportid,patientid,category,labid
+4e1510f8-c9fb-4e0c-9596-e596d48f2072,c03d39ba-ba9b-4fc7-a6cc-db154181f8c0,diagnostics-report,1000
+33a74db7-35c0-4abc-b6e3-30884a5d051f,c03d39ba-ba9b-4fc7-a6cc-db154181f8c0,genomics-report,2000
+0d8e385a-7609-4693-8486-f9810ef52f04,ba1c03d5-ad20-42a7-b880-19a0a820e6a6,diagnostics-report,1000
+1b28ddb1-2bce-4981-b9bd-1e7d87b2fa31,ba1c03d5-ad20-42a7-b880-19a0a820e6a6,genomics-report,2000
